@@ -1,0 +1,18 @@
+# 編譯產出的檔案
+target/
+*.jar
+
+# IDE 設定
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# 敏感資訊 (你的 Token 就在這！)
+src/main/resources/config.yml
+
+# 作業系統暫存
+.DS_Store
+Thumbs.db
