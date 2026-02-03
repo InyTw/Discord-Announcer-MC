@@ -22,10 +22,20 @@ public class Ann extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        if (discordHandler != null) discordHandler.stopBot();
+        if (discordHandler != null) {
+            discordHandler.stopBot();
+        }
     }
 
-    public static Ann getInstance() { return instance; }
-    public String getLatestMsg() { return latestMsg; }
-    public void setLatestMsg(String msg) { this.latestMsg = msg; }
+    public static Ann getInstance() {
+        return instance;
+    }
+
+    public String getLatestMsg() {
+        return latestMsg;
+    }
+
+    public void setLatestMsg(String msg) {
+        this.latestMsg = msg;
+    }
 }

@@ -11,7 +11,7 @@ public class PapiExpansion extends PlaceholderExpansion {
         this.plugin = plugin;
     }
 
-    @Override public @NotNull String getIdentifier() { return "discord"; }
+    @Override public @NotNull String getIdentifier() { return "discord"; } // 這裡決定了 %discord_...
     @Override public @NotNull String getAuthor() { return "OHW"; }
     @Override public @NotNull String getVersion() { return "1.0"; }
     @Override public boolean persist() { return true; }

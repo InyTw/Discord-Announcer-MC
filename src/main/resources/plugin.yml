@@ -1,6 +1,4 @@
-name: SimpleDiscordAnnouncer
-version: 1.0
+name: DiscordAnnouncerMC
+version: 1.0.1
 main: ohw.dc.ann.Ann
-api-version: 1.21
-depend: [PlaceholderAPI]
-description: 將 Discord 公告同步至 Minecraft 變數 %discord_ann%
+softdepend: [PlaceholderAPI]
