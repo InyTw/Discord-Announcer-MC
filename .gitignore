@@ -10,8 +10,8 @@ target/
 .project
 .settings/
 
-# 敏感資訊 (你的 Token 就在這！)
-src/main/resources/config.yml
+# 單純不想看到它
+dependency-reduced-pom.xml
 
 # 作業系統暫存
 .DS_Store
