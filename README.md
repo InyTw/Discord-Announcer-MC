@@ -22,13 +22,17 @@
 
 ## 🛠️ 安裝步驟
 
-1.  **下載插件**：將編譯好的 `DiscordAnnouncerMC-1.0.jar` 放入伺服器的 `plugins` 資料夾。
-2.  **獲取 Token**：前往 [Discord Developer Portal](https://discord.com/developers/applications) 創建機器人並取得 **Bot Token**。
-3.  **初次啟動**：重啟伺服器以生成 `config.yml`。
+1.  **下載插件**：將 [DiscordAnnouncerMC-1.0.jar](https://www.spigotmc.org/resources/discordannouncermc.132339/) 放入伺服器的 `plugins` 資料夾
+2.  **獲取 Token**：前往 [Discord Developer Portal](https://discord.com/developers/applications) 創建機器人並取得 **Bot Token**
+3.  **初次啟動**：重啟伺服器以生成 `config.yml`
 4.  **配置檔案**：
-    * 使用支援 **UTF-8** 的編輯器（如 VS Code）打開 `config.yml`。
-    * 填入您的 `Bot-Token` 與 `Channel-ID`。
-5.  **正式運作**：再次重啟伺服器或輸入 `/announcer reload`。
+    * 使用支援 **UTF-8** 的編輯器（如 VS Code）打開 `config.yml`
+    * 填入您的 `Bot-Token` 與 `Channel-ID`
+5.  **正式運作**：再次重啟伺服器
+6.  **指令使用**：
+    * 請安裝 [DecentHolograms](https://www.spigotmc.org/resources/decentholograms-1-8-1-21-11-papi-support-no-dependencies.96927/)
+    * 重啟伺服器後，到你想要的位置使用 `/hologram create discord_announcement %Discord_ann%` 設定
+      **恭喜完成**
 
 ---
 
