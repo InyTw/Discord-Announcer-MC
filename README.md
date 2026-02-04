@@ -2,7 +2,7 @@
 
 ![Banner](https://media.discordapp.net/attachments/1438001402537447614/1468308210338234580/DiscordAnnouncerMC-Banner_3000_x_1000_.png?ex=69838c15&is=69823a95&hm=7eab030c047bd9bba5dc72697bea2be421c733a00aa637b1c8bc407d7ebabd4a&=&format=webp&quality=lossless&width=1872&height=624)
 
-![Minecraft [Version](https://img.shields.io/badge/Minecraft-1.8.8%20--%201.21-green?style=for-the-badge&logo=minecraft)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.8.8%20--%201.21-green?style=for-the-badge&logo=minecraft)
 ![Java Version](https://img.shields.io/badge/Java-17%20%2F%2021-orange?style=for-the-badge&logo=openjdk)
 ![Platform](https://img.shields.io/badge/Platform-Spigot%20%2F%20Paper-gold?style=for-the-badge)
 This is a lightweight, high-performance Minecraft plugin that instantly syncs Discord messages to in-game announcements and perfectly supports the Placeholder API.
